@@ -27,7 +27,7 @@
     "@types/minimist": "^1.2.5",
     "csv-writer": "^1.6.0",
     "minimist": "^1.2.8",
-    "node-downloader-helper": "^2.1.6",
+    "node-downloader-helper": "^2.1.9",
     "node-fetch": "^2.6.6",
     "typescript-node": "^0.1.3"
   },
